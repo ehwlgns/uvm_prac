@@ -1,0 +1,1 @@
+-debug "all" -top "adder_4_bit_tb_top" -snapshot "adder_4_bit_tb_top_snapshot" -relax 
